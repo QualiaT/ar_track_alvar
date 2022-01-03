@@ -2,6 +2,14 @@
 Changelog for package ar_track_alvar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.2(2022-01-03)
+------------------
+* [modified] CMakeLists.txt
+* [added] ar_track_alvar/launch/pr2_indiv_g_d435.launch
+* [added] ar_track_alvar/launch/pr2_indiv_h_d435.launch
+* [added] ar_track_alvar/nodes/IndividualMarkersNoKinect_g.cpp
+------------------
+
 0.7.1 (2017-06-14)
 ------------------
 * [maintenance] Remove unnecessary metapkg.
