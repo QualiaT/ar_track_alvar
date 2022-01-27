@@ -1,6 +1,7 @@
 See [ROS wiki](http://wiki.ros.org/ar_track_alvar) for the users document.
 
 - reference from [here](https://github.com/ros-perception/ar_track_alvar)
+- and modified by [TaeHyeon Kim](https://github.com/QualiaT), [Myunghyun Kim](https://github.com/kmh8667)
 
 ![01](https://user-images.githubusercontent.com/87522493/151307377-c60d20f6-6ef1-43ea-955f-e20815efa55a.png)
 ![04](https://user-images.githubusercontent.com/87522493/151307384-2ec28816-3e34-41d1-bbd4-184241cdc4ce.png)
