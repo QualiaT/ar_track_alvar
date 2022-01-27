@@ -5,7 +5,7 @@
 	<arg name="g_cam_image_topic" default="/g_d435/rgb/g_image_raw" />
 	<arg name="g_cam_info_topic" default="/g_d435/rgb/camera_info" />
 
-	<arg name="output_frame" default="/torso_lift_link" />
+	<arg name="output_frame" default="/g_camera_link" />
 
 	<node name="g_ar_track_alvar" pkg="ar_track_alvar" type="individualMarkersNoKinect_g" respawn="false" output="screen">
 		<param name="marker_size"           type="double" value="$(arg marker_size)" />
